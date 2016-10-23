@@ -35,7 +35,7 @@ public class Student
 				{
 					x = inp.nextLine();
 				}
-			}
+			} 
 			x = inp.nextLine();
 			System.out.println(x);
 			roll = Integer.parseInt(inp.nextLine());

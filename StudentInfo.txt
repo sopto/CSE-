@@ -1,0 +1,20 @@
+Roll:
+1407062
+Name:
+XXXX
+Department:
+CSE
+University:
+KUET
+GPAs in terms:
+3.78 3.89
+Roll:
+1407063
+Name:
+YYYY
+Department:
+CSE
+University:
+KUET
+GPAs in terms:
+3.99 3.43

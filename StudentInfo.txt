@@ -16,5 +16,5 @@ Department:
 CSE
 University:
 KUET
-GPAs in terms:
+GPAs in terms: 
 3.99 3.43

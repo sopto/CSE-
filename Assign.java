@@ -65,9 +65,9 @@ public class Student
 			}
 			System.out.println();
 			if(inp.hasNextLine() == true)
-				condition = 0;
+				condition = 1;
 			else
-				condition= 1;
+				condition= 2;
 			inp.close();
 		}
 		catch(Exception xxx)
@@ -145,3 +145,20 @@ public class Student
 		}
 	}
 }
+public static void main(String[] args) 
+{
+Student [] st = new Student[120];
+int a1=0,a2=0;
+for(int i=0;i<120;i++)
+{
+   st[i]=new Student();
+}
+for(int i=0;i<120;i++)
+{
+if(s[i].load(a1)==1)
+a1+=10;
+else
+break;
+}
+}
+
